@@ -19,6 +19,5 @@ The **Real-Time Stock Market Dashboard** is a sophisticated web application desi
 - **Data Visualization:** Chart.js, d3.js
 - **APIs:** Finnhub, API Ninjas
 
-## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
